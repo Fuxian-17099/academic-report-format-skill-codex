@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "tests": 23,
+  "structural_checks_after_Word": 1171,
+  "Word_render": "Microsoft Word 2021 native UI -> PDF -> Poppler, all 5 pages visually reviewed",
+  "native_cached_sequence_values": [
+    "1-1",
+    "1.1",
+    "2-1",
+    "1",
+    "2"
+  ],
+  "COM": "Unavailable in sandbox: 80080005; actual Word UI refresh/export succeeded",
+  "LibreOffice_renderer": "Unavailable: soffice.exe not installed; native Word PDF used",
+  "visual_result": "PASS for the 5-page example; complex equations/MathType plugin and arbitrary future input require review",
+  "source_unchanged": true
+}

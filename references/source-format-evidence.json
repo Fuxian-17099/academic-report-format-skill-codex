@@ -1,0 +1,808 @@
+{
+  "source_sha256": "52634fc4089c34e71d7010df62fbbcb6739732a4ec7e72dba2e34791917f0d6b",
+  "paragraph_count": 923,
+  "table_count": 16,
+  "section_count": 3,
+  "omml_count": 2,
+  "style_definitions": {
+    "a5": {
+      "name": "Normal",
+      "pPr": [
+        {
+          "widowControl": {
+            "val": "0"
+          }
+        },
+        {
+          "jc": {
+            "val": "both"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "kern": {
+            "val": "2"
+          }
+        },
+        {
+          "sz": {
+            "val": "21"
+          }
+        },
+        {
+          "szCs": {
+            "val": "22"
+          }
+        }
+      ]
+    },
+    "TOC3": {
+      "name": "toc 3",
+      "pPr": [
+        {
+          "tabs": {}
+        },
+        {
+          "adjustRightInd": {
+            "val": "0"
+          }
+        },
+        {
+          "snapToGrid": {
+            "val": "0"
+          }
+        },
+        {
+          "spacing": {
+            "beforeLines": "20",
+            "afterLines": "20"
+          }
+        },
+        {
+          "ind": {
+            "firstLineChars": "400",
+            "firstLine": "840"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "rFonts": {
+            "eastAsia": "黑体"
+          }
+        },
+        {
+          "sz": {
+            "val": "24"
+          }
+        }
+      ]
+    },
+    "TOC1": {
+      "name": "toc 1",
+      "pPr": [
+        {
+          "ind": {
+            "leftChars": "100",
+            "left": "100",
+            "rightChars": "100",
+            "right": "100"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "rFonts": {
+            "eastAsia": "黑体"
+          }
+        },
+        {
+          "sz": {
+            "val": "28"
+          }
+        },
+        {
+          "szCs": {
+            "val": "20"
+          }
+        }
+      ]
+    },
+    "TOC2": {
+      "name": "toc 2",
+      "pPr": [
+        {
+          "tabs": {}
+        },
+        {
+          "spacing": {
+            "beforeLines": "10",
+            "afterLines": "10",
+            "line": "400",
+            "lineRule": "exact"
+          }
+        },
+        {
+          "ind": {
+            "leftChars": "200",
+            "left": "200"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "rFonts": {
+            "eastAsia": "黑体"
+          }
+        },
+        {
+          "sz": {
+            "val": "28"
+          }
+        }
+      ]
+    },
+    "a0": {
+      "name": "Title",
+      "pPr": [
+        {
+          "numPr": {}
+        },
+        {
+          "spacing": {
+            "before": "240",
+            "after": "60"
+          }
+        },
+        {
+          "jc": {
+            "val": "center"
+          }
+        },
+        {
+          "outlineLvl": {
+            "val": "0"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "rFonts": {
+            "asciiTheme": "majorHAnsi",
+            "eastAsiaTheme": "majorEastAsia",
+            "hAnsiTheme": "majorHAnsi",
+            "cstheme": "majorBidi"
+          }
+        },
+        {
+          "b": {}
+        },
+        {
+          "bCs": {}
+        },
+        {
+          "sz": {
+            "val": "32"
+          }
+        },
+        {
+          "szCs": {
+            "val": "32"
+          }
+        }
+      ]
+    },
+    "af6": {
+      "name": "图题",
+      "pPr": [
+        {
+          "keepLines": {}
+        },
+        {
+          "spacing": {
+            "before": "120",
+            "after": "240",
+            "line": "400",
+            "lineRule": "exact"
+          }
+        },
+        {
+          "jc": {
+            "val": "center"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "rFonts": {
+            "cstheme": "minorBidi"
+          }
+        },
+        {
+          "kern": {
+            "val": "2"
+          }
+        },
+        {
+          "sz": {
+            "val": "21"
+          }
+        },
+        {
+          "szCs": {
+            "val": "24"
+          }
+        }
+      ]
+    },
+    "a": {
+      "name": "一级标题",
+      "pPr": [
+        {
+          "keepNext": {
+            "val": "0"
+          }
+        },
+        {
+          "keepLines": {
+            "val": "0"
+          }
+        },
+        {
+          "numPr": {}
+        },
+        {
+          "spacing": {
+            "before": "360",
+            "after": "120",
+            "line": "400",
+            "lineRule": "exact"
+          }
+        },
+        {
+          "jc": {
+            "val": "left"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "rFonts": {
+            "eastAsia": "黑体"
+          }
+        },
+        {
+          "b": {
+            "val": "0"
+          }
+        },
+        {
+          "sz": {
+            "val": "28"
+          }
+        }
+      ]
+    },
+    "a1": {
+      "name": "参考文献",
+      "pPr": [
+        {
+          "keepLines": {}
+        },
+        {
+          "numPr": {}
+        },
+        {
+          "topLinePunct": {}
+        },
+        {
+          "adjustRightInd": {
+            "val": "0"
+          }
+        },
+        {
+          "spacing": {
+            "line": "400",
+            "lineRule": "atLeast"
+          }
+        },
+        {
+          "ind": {
+            "left": "250",
+            "hangingChars": "250",
+            "hanging": "250"
+          }
+        },
+        {
+          "jc": {
+            "val": "both"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "rFonts": {
+            "cstheme": "minorBidi"
+          }
+        },
+        {
+          "kern": {
+            "val": "2"
+          }
+        },
+        {
+          "sz": {
+            "val": "21"
+          }
+        },
+        {
+          "szCs": {
+            "val": "24"
+          }
+        }
+      ]
+    },
+    "a2": {
+      "name": "二级标题_改",
+      "pPr": [
+        {
+          "widowControl": {}
+        },
+        {
+          "numPr": {}
+        },
+        {
+          "topLinePunct": {}
+        },
+        {
+          "adjustRightInd": {
+            "val": "0"
+          }
+        },
+        {
+          "spacing": {
+            "before": "240",
+            "after": "120",
+            "line": "240",
+            "lineRule": "auto"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "rFonts": {
+            "eastAsia": "黑体"
+          }
+        },
+        {
+          "sz": {
+            "val": "24"
+          }
+        }
+      ]
+    },
+    "aff7": {
+      "name": "正文_改",
+      "pPr": [
+        {
+          "spacing": {
+            "line": "400",
+            "lineRule": "exact"
+          }
+        },
+        {
+          "ind": {
+            "firstLineChars": "200",
+            "firstLine": "200"
+          }
+        }
+      ],
+      "rPr": [
+        {
+          "sz": {
+            "val": "24"
+          }
+        }
+      ]
+    }
+  },
+  "sections": [
+    {
+      "pgSz": {
+        "w": "11906",
+        "h": "16838"
+      },
+      "pgMar": {
+        "top": "1701",
+        "right": "1701",
+        "bottom": "1701",
+        "left": "1701",
+        "header": "851",
+        "footer": "992",
+        "gutter": "0"
+      },
+      "cols": {
+        "space": "425"
+      },
+      "docGrid": {
+        "type": "lines",
+        "linePitch": "312"
+      }
+    },
+    {
+      "pgSz": {
+        "w": "11906",
+        "h": "16838"
+      },
+      "pgMar": {
+        "top": "1701",
+        "right": "1701",
+        "bottom": "1701",
+        "left": "1701",
+        "header": "1134",
+        "footer": "1134",
+        "gutter": "0"
+      },
+      "pgNumType": {
+        "fmt": "upperRoman",
+        "start": "1"
+      },
+      "cols": {
+        "space": "0"
+      },
+      "docGrid": {
+        "type": "lines",
+        "linePitch": "312"
+      }
+    },
+    {
+      "pgSz": {
+        "w": "11906",
+        "h": "16838"
+      },
+      "pgMar": {
+        "top": "1701",
+        "right": "1701",
+        "bottom": "1701",
+        "left": "1701",
+        "header": "1134",
+        "footer": "1134",
+        "gutter": "0"
+      },
+      "pgNumType": {
+        "start": "1"
+      },
+      "cols": {
+        "space": "0"
+      },
+      "titlePg": {},
+      "docGrid": {
+        "type": "lines",
+        "linePitch": "312"
+      }
+    }
+  ],
+  "parts": [
+    {
+      "path": "[Content_Types].xml",
+      "size": 4012
+    },
+    {
+      "path": "_rels/.rels",
+      "size": 737
+    },
+    {
+      "path": "word/document.xml",
+      "size": 817445
+    },
+    {
+      "path": "word/_rels/document.xml.rels",
+      "size": 9446
+    },
+    {
+      "path": "word/footer3.xml",
+      "size": 2788
+    },
+    {
+      "path": "word/header4.xml",
+      "size": 3301
+    },
+    {
+      "path": "word/footer4.xml",
+      "size": 8891
+    },
+    {
+      "path": "word/footer5.xml",
+      "size": 3396
+    },
+    {
+      "path": "word/header5.xml",
+      "size": 3678
+    },
+    {
+      "path": "word/footer6.xml",
+      "size": 8897
+    },
+    {
+      "path": "word/header7.xml",
+      "size": 3699
+    },
+    {
+      "path": "word/header6.xml",
+      "size": 3407
+    },
+    {
+      "path": "word/footnotes.xml",
+      "size": 3138
+    },
+    {
+      "path": "word/endnotes.xml",
+      "size": 3132
+    },
+    {
+      "path": "word/header1.xml",
+      "size": 2788
+    },
+    {
+      "path": "word/header2.xml",
+      "size": 2788
+    },
+    {
+      "path": "word/footer1.xml",
+      "size": 2788
+    },
+    {
+      "path": "word/footer2.xml",
+      "size": 2788
+    },
+    {
+      "path": "word/header3.xml",
+      "size": 2788
+    },
+    {
+      "path": "word/media/image4.wmf",
+      "size": 1196
+    },
+    {
+      "path": "word/media/image36.jpeg",
+      "size": 227045
+    },
+    {
+      "path": "word/media/image37.jpeg",
+      "size": 195307
+    },
+    {
+      "path": "word/embeddings/oleObject9.bin",
+      "size": 3584
+    },
+    {
+      "path": "word/media/image10.wmf",
+      "size": 1438
+    },
+    {
+      "path": "word/theme/theme1.xml",
+      "size": 6458
+    },
+    {
+      "path": "word/embeddings/oleObject8.bin",
+      "size": 3584
+    },
+    {
+      "path": "word/media/image19.png",
+      "size": 159069
+    },
+    {
+      "path": "word/media/image1.wmf",
+      "size": 1144
+    },
+    {
+      "path": "word/embeddings/oleObject1.bin",
+      "size": 3584
+    },
+    {
+      "path": "word/media/image2.wmf",
+      "size": 978
+    },
+    {
+      "path": "word/embeddings/oleObject2.bin",
+      "size": 3584
+    },
+    {
+      "path": "word/media/image3.wmf",
+      "size": 1168
+    },
+    {
+      "path": "word/embeddings/oleObject3.bin",
+      "size": 3584
+    },
+    {
+      "path": "word/media/image8.wmf",
+      "size": 1130
+    },
+    {
+      "path": "word/embeddings/oleObject4.bin",
+      "size": 3584
+    },
+    {
+      "path": "word/media/image5.wmf",
+      "size": 1162
+    },
+    {
+      "path": "word/embeddings/oleObject5.bin",
+      "size": 3584
+    },
+    {
+      "path": "word/media/image6.wmf",
+      "size": 1954
+    },
+    {
+      "path": "word/embeddings/oleObject6.bin",
+      "size": 3584
+    },
+    {
+      "path": "word/media/image7.wmf",
+      "size": 1492
+    },
+    {
+      "path": "word/embeddings/oleObject7.bin",
+      "size": 3584
+    },
+    {
+      "path": "word/media/image11.png",
+      "size": 102255
+    },
+    {
+      "path": "word/media/image12.png",
+      "size": 98645
+    },
+    {
+      "path": "word/media/image13.png",
+      "size": 103728
+    },
+    {
+      "path": "word/media/image14.png",
+      "size": 105788
+    },
+    {
+      "path": "word/media/image15.png",
+      "size": 106601
+    },
+    {
+      "path": "word/media/image16.png",
+      "size": 145369
+    },
+    {
+      "path": "word/media/image17.png",
+      "size": 137694
+    },
+    {
+      "path": "word/media/image18.png",
+      "size": 122807
+    },
+    {
+      "path": "word/media/image29.png",
+      "size": 267818
+    },
+    {
+      "path": "word/media/image20.png",
+      "size": 129395
+    },
+    {
+      "path": "word/media/image21.png",
+      "size": 118694
+    },
+    {
+      "path": "word/media/image22.png",
+      "size": 170536
+    },
+    {
+      "path": "word/media/image23.png",
+      "size": 142076
+    },
+    {
+      "path": "word/media/image24.png",
+      "size": 161308
+    },
+    {
+      "path": "word/media/image25.png",
+      "size": 157804
+    },
+    {
+      "path": "word/media/image26.png",
+      "size": 201020
+    },
+    {
+      "path": "word/media/image27.png",
+      "size": 198795
+    },
+    {
+      "path": "word/media/image28.png",
+      "size": 154811
+    },
+    {
+      "path": "word/media/image9.png",
+      "size": 1264148
+    },
+    {
+      "path": "word/media/image30.jpeg",
+      "size": 225870
+    },
+    {
+      "path": "word/media/image31.jpeg",
+      "size": 278719
+    },
+    {
+      "path": "word/media/image32.png",
+      "size": 116872
+    },
+    {
+      "path": "word/media/image33.jpeg",
+      "size": 215706
+    },
+    {
+      "path": "word/media/image34.jpeg",
+      "size": 288820
+    },
+    {
+      "path": "word/media/image35.jpeg",
+      "size": 229641
+    },
+    {
+      "path": "word/settings.xml",
+      "size": 8728
+    },
+    {
+      "path": "customXml/itemProps1.xml",
+      "size": 341
+    },
+    {
+      "path": "customXml/item2.xml",
+      "size": 413
+    },
+    {
+      "path": "customXml/itemProps2.xml",
+      "size": 326
+    },
+    {
+      "path": "word/numbering.xml",
+      "size": 37293
+    },
+    {
+      "path": "word/styles.xml",
+      "size": 53127
+    },
+    {
+      "path": "word/webSettings.xml",
+      "size": 1060
+    },
+    {
+      "path": "docProps/app.xml",
+      "size": 727
+    },
+    {
+      "path": "docProps/custom.xml",
+      "size": 758
+    },
+    {
+      "path": "word/fontTable.xml",
+      "size": 5140
+    },
+    {
+      "path": "customXml/item1.xml",
+      "size": 289
+    },
+    {
+      "path": "customXml/_rels/item1.xml.rels",
+      "size": 296
+    },
+    {
+      "path": "customXml/_rels/item2.xml.rels",
+      "size": 296
+    },
+    {
+      "path": "docProps/core.xml",
+      "size": 805
+    }
+  ]
+}

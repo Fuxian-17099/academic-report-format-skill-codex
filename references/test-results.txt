@@ -1,0 +1,28 @@
+test_all_math_structures (test_report_format.ReportTests.test_all_math_structures) ... ok
+test_bad_body_font (test_report_format.ReportTests.test_bad_body_font) ... ok
+test_bad_field_structure (test_report_format.ReportTests.test_bad_field_structure) ... ok
+test_bad_image_width (test_report_format.ReportTests.test_bad_image_width) ... ok
+test_bad_number_bold (test_report_format.ReportTests.test_bad_number_bold) ... ok
+test_bad_number_font (test_report_format.ReportTests.test_bad_number_font) ... ok
+test_bad_table_width (test_report_format.ReportTests.test_bad_table_width) ... ok
+test_body_normal (test_report_format.ReportTests.test_body_normal) ... ok
+test_duplicate_bookmark (test_report_format.ReportTests.test_duplicate_bookmark) ... ok
+test_duplicate_id_rejected (test_report_format.ReportTests.test_duplicate_id_rejected) ... ok
+test_formatter_preserves_text_objects (test_report_format.ReportTests.test_formatter_preserves_text_objects) ... ok
+test_generation (test_report_format.ReportTests.test_generation) ... ok
+test_heading_jump_rejected (test_report_format.ReportTests.test_heading_jump_rejected) ... ok
+test_heading_repair (test_report_format.ReportTests.test_heading_repair) ... ok
+test_manual_heading (test_report_format.ReportTests.test_manual_heading) ... ok
+test_markdown_interface (test_report_format.ReportTests.test_markdown_interface) ... ok
+test_mathtype_slot (test_report_format.ReportTests.test_mathtype_slot) ... ok
+test_missing_bookmark (test_report_format.ReportTests.test_missing_bookmark) ... ok
+test_missing_reference_rejected (test_report_format.ReportTests.test_missing_reference_rejected) ... ok
+test_missing_seq (test_report_format.ReportTests.test_missing_seq) ... ok
+test_no_update_flag (test_report_format.ReportTests.test_no_update_flag) ... ok
+test_reference_heading_font (test_report_format.ReportTests.test_reference_heading_font) ... ok
+test_template_privacy (test_report_format.ReportTests.test_template_privacy) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 2.796s
+
+OK

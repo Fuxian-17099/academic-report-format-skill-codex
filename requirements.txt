@@ -1,0 +1,7 @@
+# DOCX object model and package relationships
+python-docx>=1.1.2,<2
+# Secure OOXML inspection and optional Microsoft MathML XSLT conversion
+lxml>=5,<7
+# Image dimensions and the example diagram
+Pillow>=10,<13
+# Testing uses Python's built-in unittest; Word refresh uses Windows PowerShell COM.

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Academic Report Format"
+  short_description: "生成与规范化个人学术报告 Word，管理标题、公式、图表和交叉引用"
+  default_prompt: "使用 $academic-report-format 将我的内容整理为规范的学术报告 Word。"
+policy:
+  allow_implicit_invocation: true
